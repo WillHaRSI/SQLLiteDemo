@@ -1,0 +1,11 @@
+C:\Users\william.ha\Source2\SQLliteDemo\SQLliteDemo\bin\Debug\netcoreapp2.2\SQLliteDemo.deps.json
+C:\Users\william.ha\Source2\SQLliteDemo\SQLliteDemo\bin\Debug\netcoreapp2.2\SQLliteDemo.runtimeconfig.json
+C:\Users\william.ha\Source2\SQLliteDemo\SQLliteDemo\bin\Debug\netcoreapp2.2\SQLliteDemo.runtimeconfig.dev.json
+C:\Users\william.ha\Source2\SQLliteDemo\SQLliteDemo\bin\Debug\netcoreapp2.2\SQLliteDemo.dll
+C:\Users\william.ha\Source2\SQLliteDemo\SQLliteDemo\bin\Debug\netcoreapp2.2\SQLliteDemo.pdb
+C:\Users\william.ha\Source2\SQLliteDemo\SQLliteDemo\obj\Debug\netcoreapp2.2\SQLliteDemo.csprojAssemblyReference.cache
+C:\Users\william.ha\Source2\SQLliteDemo\SQLliteDemo\obj\Debug\netcoreapp2.2\SQLliteDemo.csproj.CoreCompileInputs.cache
+C:\Users\william.ha\Source2\SQLliteDemo\SQLliteDemo\obj\Debug\netcoreapp2.2\SQLliteDemo.AssemblyInfoInputs.cache
+C:\Users\william.ha\Source2\SQLliteDemo\SQLliteDemo\obj\Debug\netcoreapp2.2\SQLliteDemo.AssemblyInfo.cs
+C:\Users\william.ha\Source2\SQLliteDemo\SQLliteDemo\obj\Debug\netcoreapp2.2\SQLliteDemo.dll
+C:\Users\william.ha\Source2\SQLliteDemo\SQLliteDemo\obj\Debug\netcoreapp2.2\SQLliteDemo.pdb
